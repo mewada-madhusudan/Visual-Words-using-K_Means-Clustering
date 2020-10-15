@@ -1,0 +1,24 @@
+Bag of Visual Words Vocabulary:
+	
+Instruction for Run:
+
+For Running this Code..
+You need to install libraries in Jupyter Notebook.
+
+	pip install opencv-python==3.4.2.16
+	pip install opencv-contrib-python==3.4.2.16
+	pip install scipy
+	pip install sklearn
+	pip install matplotlib
+	pip install confmat
+	pip install numpy
+	pip install os
+	pip install imutils
+	pip install pickle
+
+After this you need to open Training_File and train model
+Then you need to open Prediction_File and start prediction..
+your output is save in src/Prediction_image folder
+
+
+You only need to run src/prediction_file and src/training_file

@@ -1,0 +1,3 @@
+# Bag of Visual Words using K-Means Clustering
+
+Bag-of-Visual-Words using K-Means-Clustering.. and SURF as a feature detector...
